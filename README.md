@@ -3,7 +3,7 @@
 ### 关于我
 -  专业：网络空间安全
 -  当前状态：在读 
--  正在学习：Python、React、Docker 等
+-  正在学习：Pytorch、hpc、sys 等
 
 ### 技术栈
 - 语言：Python / C++ 
